@@ -2,10 +2,10 @@
 import React from "react"
 import './App.css';
 import Profilphoto from "./Component/Profile/ProfilPhoto";
-import Name from "./Component/Profile/FullName"
+import Name from "./Component/Profile/FullName";
 import Addresse from "./Component/Profile/Address";
 
-function App() {
+function App()   {
   return (
     <div className="App">
       <div className="Carte">
